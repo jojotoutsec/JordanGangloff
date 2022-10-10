@@ -1,21 +1,11 @@
-### Hi there 👋
+### 
+
+<h1 align="center">Hi there, I'm Jordan 👋</h1>
+
+<h3 align="center">A Junior Fullstack Web Developer from France 🥖</h3>
 
 
-
-- 🔭 I’m currently working on a Formula1 Wiki-like
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m currently working on a _Formula1 Wiki-like_
+- 🌱 I’m currently learning _ReactJS_
 - 📫 How to reach me: jordangangloff@icloud.com
 - 🐕 I have a Shiba Inu named Tofu
-
-
-<!--
-**JordanGangloff/JordanGangloff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-
--->
