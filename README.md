@@ -7,5 +7,5 @@
 
 - 🔭 I’m currently working on a _Formula1 Wiki-like_
 - 🌱 I’m currently learning _ReactJS_
-- 📫 How to reach me: jordangangloff@icloud.com
+- 📫 How to reach me: seckler.jordan@gmail.com
 - 🐕 I have a Shiba Inu named Tofu
